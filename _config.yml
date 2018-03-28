@@ -38,7 +38,6 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
   - name: android
   - name: angularjs
   - name: apache
@@ -56,7 +55,6 @@ skills:
   - name: coffescript
   - name: confluence
   - name: cplusplus
-  - name: csharp
   - name: css3
   - name: cucumber
   - name: d3js
